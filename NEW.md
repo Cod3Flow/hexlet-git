@@ -1,1 +1,0 @@
-https://ru.hexlet.io/courses/intro_to_git/lessons/github/theory_unit
